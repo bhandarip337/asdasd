@@ -1,7 +1,13 @@
-# Scripting Language
+<div align=center> 
 
-[``Unit 1``](Unit/Unit1.md)
+# **Scripting Language**
 
-[``Unit 2``](Unit/Unit2.md)
+## **-------Table of Content-------**
 
-[``Unit 3``](Unit/Unit-3.md)
+| Unit |                                  Title                                 |
+|:----:|:----------------------------------------------------------------------:|
+|  1   | [**``Client Side Scripting``**](Unit/Unit-1.md)                        |
+|  2   | [**``Server Side Scripting with Data Connectivity``**](Unit/Unit-2.md) |
+|  3   | [**``Advance Server Side Scripting ``**](Unit/Unit-3.md)               |
+
+</div>
