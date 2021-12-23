@@ -8,10 +8,10 @@
 </div>
 
 * **Unit 1: Client Side Scripting**
-    *   [**_``JavaScript``_**](Unit/Unit-1.md) 
+    *   [**_``JavaScript``_**](Unit/Unit1.md) 
 
 * **Unit 2: Server Side Scripting with Data Connectivity**
-    *   [**_``PHP``_**](Unit/Unit-1.md) 
+    *   [**_``PHP``_**](Unit/Unit2.md) 
     *   [**_``MySQL``_**](Unit/Unit-1.md)
 
 * **Unit 3: Advance Server Side Scripting**
