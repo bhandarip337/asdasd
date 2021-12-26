@@ -1,12 +1,12 @@
 <div align="center">
 
-# **Scripting Language**
-
 <img src="php_and_js.png" />
 
----------------------------------------------------------------
+------------------------------------------
 
-## _Table of Content_
+# **Scripting Language**
+
+## _**Table of Content**_
 
 
 </div>
