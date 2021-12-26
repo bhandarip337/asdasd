@@ -2,8 +2,6 @@
 
 <img src="php_and_js.png" />
 
-------------------------------------------
-
 # **Scripting Language**
 
 ## _**Table of Content**_
@@ -13,7 +11,7 @@
 
 ### ``Unit 1``: **Client Side Scripting.**
 
-* [**_``JavaScript``_**](Unit/Unit-1.md) 
+* [**_``JavaScript``_**](Unit/Unit1.md) 
 
 ### ``Unit 2``: **Server Side Scripting with Data Connectivity.**
 
