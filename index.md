@@ -1,7 +1,11 @@
 <div align="center">
 
 <img src="php_and_js.png" />
+ 
+ 
+</div>
 
+<div align="center">
 
 # **Scripting Language**
 
