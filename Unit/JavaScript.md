@@ -5,6 +5,12 @@
 
 [**_``Go Back``_**](../README.md)
     
+<a onclick="window.print()">
+    
+    [**_``Print as pdf``_**]
+    
+</a>
+    
 # JavaScript
 
 </div>
