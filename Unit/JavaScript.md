@@ -1,11 +1,10 @@
+    
+    <input type="button" value="Print / Make PDF" onclick="window.print()">
+
 <div align="center">
 
 [**_``Go Back``_**](../README.md)
     
-<a onclick="window.print()">
-    print
-</a>
-
 # JavaScript
 
 </div>
