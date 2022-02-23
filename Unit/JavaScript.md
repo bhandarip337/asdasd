@@ -2,9 +2,9 @@
 
 [**_``Go Back``_**](../README.md)
     
-<div onclick="window.print()">
+<a onclick="window.print()">
     print
-<div>
+</a>
 
 # JavaScript
 
