@@ -2,7 +2,9 @@
 
 [**_``Go Back``_**](../README.md)
     
-    <input type="button" value="Print / Make PDF" onclick="window.print()">
+<div onclick="window.print()">
+    print
+<div>
 
 # JavaScript
 
